@@ -1,0 +1,6 @@
+*.pyc
+*.bak
+*.*~
+*.log
+.vscode
+.luis_se_fuerte
